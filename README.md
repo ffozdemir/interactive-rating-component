@@ -18,5 +18,5 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/your-solution-id)
-- Live Site URL: [Live Demo](https://your-live-site-url.com)
+- Solution Repo: [Solution Repo on Github](https://github.com/ffozdemir/interactive-rating-component)
+- Live Site URL: [Live Demo](https://monumental-clafoutis-58cf9b.netlify.app)
